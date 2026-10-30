@@ -1,0 +1,8 @@
+build/
+build-debug/
+terminator
+terminator-debug
+*.o
+*.d
+core
+*.tar.gz
